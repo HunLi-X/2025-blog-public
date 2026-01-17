@@ -53,6 +53,13 @@
 			"value": "xhunli@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1768646311190",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/526083657",
+			"label": "小昏黎",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
