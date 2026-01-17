@@ -60,6 +60,13 @@
 			"value": "https://space.bilibili.com/526083657",
 			"label": "小昏黎",
 			"order": 2
+		},
+		{
+			"id": "button-1768646414218",
+			"type": "link",
+			"value": "https://cnb.cool/u/xhunli",
+			"label": "CNB",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
@@ -69,7 +76,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "豫公网安备41132702000137号",
 		"link": ""
