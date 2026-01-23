@@ -309,7 +309,7 @@ def is_within_last_24_hours(entry: Dict) -> bool:
 
 欢迎 Star 和 Fork！
 
-> [📦 查看项目](https://github.com/yourusername/24hNews)
+> [📦 查看项目](https://cnb.cool/1255027942/XingTeam-2025/24hNews)
 
 ---
 
