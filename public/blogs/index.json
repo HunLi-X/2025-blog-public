@@ -1,5 +1,15 @@
 [
   {
+    "slug": "03-01",
+    "title": "CNB自动科技资讯推送",
+    "tags": [],
+    "date": "2026-01-23T11:44",
+    "summary": "用CNB实现每天8点自动推送科技资讯，实则是想看看能不能平替github actions",
+    "cover": "/blogs/03-01/2ca44d18e27aefe2.png",
+    "hidden": false,
+    "category": "开源"
+  },
+  {
     "slug": "02-01",
     "title": "复杂LaTex公式的测试",
     "tags": [],
