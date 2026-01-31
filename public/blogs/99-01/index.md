@@ -85,7 +85,6 @@ ONE BY ONE，我大一就接触了，现在在ONE BY ONE，也是老人了，在
 | 项目名称 | 链接 |
 |---------|------|
 | 昏黎站（个人博客） | [点击查看](https://hunli.100w.top/) |
-| TDP社群官网-官方版 | [点击查看](https://cloud.tencent.com/tdp) |
 | TDP社群官网-社群版 | [点击查看](https://tdp.fan) |
 | ComfyUI | [点击查看](https://cnb.cool/cloud985/ComfyUI-yi_dian_tong) |
 
