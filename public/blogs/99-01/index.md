@@ -44,11 +44,8 @@
 | 人工智能课程实验 | [点击查看](https://cnb.cool/chief985/For_course/ArtificialIntelligenceCourseExperiment) |
 | 人工智能作业 | [点击查看](https://cnb.cool/chief985/For_course/ArtificialIntelligenceCourseExperiment) |
 
-<div align="center">
 
-![](/blogs/99-01/47d9e9c7a7d66bd0.png)
-
-</div>
+![](/blogs/99-01/5ef3adde8d6ef562.webp)
 
 <br>
 
@@ -66,9 +63,9 @@
 
 <div align="center">
 
-|![](/blogs/99-01/3f1a0790e6d5fbf2.png) | ![](/blogs/99-01/02372dfc2b272ea9.png)|
+| ![](/blogs/99-01/786f6bc9aff18881.webp)<img src="local-image:q7cx1kdv" height="300"> | ![](/blogs/99-01/eec493b1768ec345.webp)<img src="local-image:176057pg" height="300"> |
 |:---:|:---:|
-|![](/blogs/99-01/caef521995e6b81f.png)  | ![](/blogs/99-01/86179b55ddc6a4ba.png) |
+| ![](/blogs/99-01/e3d76fb9f82e4f58.webp)<img src="local-image:22ki6yig" height="300"> | ![](/blogs/99-01/dbdc8394aa26eb84.webp)<img src="local-image:t6lqyd5c" height="300"> |
 
 </div>
 
@@ -105,7 +102,7 @@ ONE BY ONE，我大一就接触了，现在在ONE BY ONE，也是老人了，在
 
 <div align="center">
 
-| ![](/blogs/99-01/7ab4cdbbec16ddcd.png) |
+| ![](/blogs/99-01/fc61bec8f88fd9dd.webp)<img src="local-image:0rgd6edx" height="300"> |
 |:---:|
 
 </div>
@@ -120,11 +117,10 @@ ONE BY ONE，我大一就接触了，现在在ONE BY ONE，也是老人了，在
 
 <div align="center">
 
-|![](/blogs/99-01/f07385ea75bfbbea.png) | ![](/blogs/99-01/0d33d0d6bd1e9ba4.png) | ![](/blogs/99-01/d0213af5dcb99776.png)|
+| ![](/blogs/99-01/4735d660177ac282.webp)<img src="local-image:56wk8d7s" height="300"> |![](/blogs/99-01/bc6b71aed59c83dd.webp) <img src="local-image:19uh9yuj" height="300"> | ![](/blogs/99-01/8a91f6300b9f4e56.webp)<img src="local-image:sixtrygl" height="300"> |
 |:---:|:---:|:---:|
 
 </div>
-
 <br>
 
 ---
