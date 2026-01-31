@@ -23,7 +23,7 @@
 - [三、ONE BY ONE与心翼逐梦全工坊](#三one-by-one与心翼逐梦全工坊)
 - [四、腾讯云开发者先锋（TDP）社群与CNB](#四腾讯云开发者先锋tdp社群与cnb)
 - [五、3D打印与ROS2](#五3d打印与ros2)
-- [六、PL2025AG年](#六pl2025ag年)
+- [六、KPL2025AG年](#六kpl2025ag年)
 - [结语](#-结语)
 
 <br>
@@ -44,11 +44,8 @@
 | 人工智能课程实验 | [点击查看](https://cnb.cool/chief985/For_course/ArtificialIntelligenceCourseExperiment) |
 | 人工智能作业 | [点击查看](https://cnb.cool/chief985/For_course/ArtificialIntelligenceCourseExperiment) |
 
-
-![](/blogs/99-01/5ef3adde8d6ef562.webp)
-
 <br>
-
+![](/blogs/99-01/5ef3adde8d6ef562.webp)
 ---
 
 ## 二、暑期社会实践、桌面小狗与电赛
@@ -60,14 +57,6 @@
 | 项目名称 | 链接 |
 |---------|------|
 | K230测距 | [点击查看](https://cnb.cool/chief985/For_small/k230ceju) |
-
-<div align="center">
-
-| ![](/blogs/99-01/786f6bc9aff18881.webp)<img src="local-image:q7cx1kdv" height="300"> | ![](/blogs/99-01/eec493b1768ec345.webp)<img src="local-image:176057pg" height="300"> |
-|:---:|:---:|
-| ![](/blogs/99-01/e3d76fb9f82e4f58.webp)<img src="local-image:22ki6yig" height="300"> | ![](/blogs/99-01/dbdc8394aa26eb84.webp)<img src="local-image:t6lqyd5c" height="300"> |
-
-</div>
 
 <br>
 
@@ -100,13 +89,6 @@ ONE BY ONE，我大一就接触了，现在在ONE BY ONE，也是老人了，在
 | TDP社群官网-社群版 | [点击查看](https://tdp.fan) |
 | ComfyUI | [点击查看](https://cnb.cool/cloud985/ComfyUI-yi_dian_tong) |
 
-<div align="center">
-
-| ![](/blogs/99-01/fc61bec8f88fd9dd.webp)<img src="local-image:0rgd6edx" height="300"> |
-|:---:|
-
-</div>
-
 <br>
 
 ---
@@ -115,17 +97,11 @@ ONE BY ONE，我大一就接触了，现在在ONE BY ONE，也是老人了，在
 
 2025年下半年，我买了一台入门级的3D打印机，来辅助我的硬件学习与开发，未来我可能等新架构技术成熟后购买一台比较全面的3D打印机，现在FDM3D打印机，i3结构比较成熟了，我买的这一款就是入门的i3结构，DJI下场3D打印机领域，期待这个市场卷起来。3D打印真正使用提高打印质量不仅要研究打印机，也要研究耗材，好的耗材，干燥措施能让打印效果更上一层楼，不同的场景参数设置不同，参数设置也很重要，温度，支撑，裙边等等。ROS2是我进入我们学校实验室，有几台宇树的机器人，让我接触到具身智能领域，学习ROS2，开发了一些功能包，也已经存档保存了。学长之前给我的仓库里有DJI_EP_ws，大疆的机甲大师也能使用ROS进行开发？我高中时曾做过大疆机甲大师EP的开发，但当时是在大疆的教育平台进行的，也许他的底层也是ROS，与低性能的智能小车不同，这个高性能的平台未来也许有着更大的空间。SLAM建图与导航有着更大的发挥空间，可拓展性也更好，搭载激光雷达的小车优势无疑是更大的。以后的小车可能搭载着更高性能的芯片，智能车不再是STM32统治的时代。
 
-<div align="center">
-
-| ![](/blogs/99-01/4735d660177ac282.webp)<img src="local-image:56wk8d7s" height="300"> |![](/blogs/99-01/bc6b71aed59c83dd.webp) <img src="local-image:19uh9yuj" height="300"> | ![](/blogs/99-01/8a91f6300b9f4e56.webp)<img src="local-image:sixtrygl" height="300"> |
-|:---:|:---:|:---:|
-
-</div>
 <br>
 
 ---
 
-## 六、PL2025AG年
+## 六、KPL2025AG年
 
 KPL2025依旧是AG年，AG有强势了一整年，但在年末王朝陨落，挑杯确实该让5人组休息了，希望他们能够重建王朝，一鲸落，万物生。DYG，WB也都是好了起来，CN电竞会更好的！
 
